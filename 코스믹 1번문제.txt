@@ -1,0 +1,11 @@
+﻿오후 1:46에 빌드를 시작함...
+1>------ 빌드 시작: 프로젝트: Project42, 구성: Debug x64 ------
+1>FileName.c
+1>C:\Users\kt288\OneDrive\바탕 화면\c언어\Project42\Project42\FileName.c(4,15): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+1>C:\Users\kt288\OneDrive\바탕 화면\c언어\Project42\Project42\FileName.c(4,6): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+1>C:\Users\kt288\OneDrive\바탕 화면\c언어\Project42\Project42\FileName.c(4,9): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+1>C:\Users\kt288\OneDrive\바탕 화면\c언어\Project42\Project42\FileName.c(4,12): warning C4101: 'd' :참조되지 않은 지역 변수입니다.
+1>Project42.vcxproj -> C:\Users\kt288\OneDrive\바탕 화면\c언어\Project42\x64\Debug\Project42.exe
+1>"Project42.vcxproj" 프로젝트를 빌드했습니다.
+========== 빌드: 1개 성공, 0개 실패, 0개 최신 상태, 0개 건너뜀 ==========
+========== 빌드이(가) 오후 1:46에 완료되었으며, 00.692 초이(가) 걸림 ==========
